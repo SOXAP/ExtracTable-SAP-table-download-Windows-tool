@@ -1,5 +1,5 @@
 # ExtracTable
-ExtracTable - download tables from SAP ABAP & HANA based systems
+Freeware - ExtracTable - download tables from SAP ABAP & HANA based systems
 
 The downloaded table can be directly published into the MS-Excel application (if installed) and/or as a CSV-file in the csv folder where the ExtracTable program resides.
 It applies (customizable) resume logic when connections get lost during downloads.
